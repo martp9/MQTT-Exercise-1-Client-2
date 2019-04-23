@@ -11,8 +11,8 @@ import paho.mqtt.client as mqtt
 SERVER = "m24.cloudmqtt.com"
 PORT = 15254
 # User login if needed
-USER ='jhkvdesg'
-PW ='IRGIIMITLIg8'
+USER ='YOUR_USER'
+PW ='YOUR_PW'
 # MQTT broker topic (subscribe)
 TOPIC='temp_humidity'
 
